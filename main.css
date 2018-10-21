@@ -14,11 +14,23 @@
 
 #title{
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  
   font-family: 'Montserrat Alternates', sans-serif;
+  padding-top: 3%;
+  padding-bottom: 2%;
 }
 
 h1 {
   font-size: 30px;
   font-weight: bold;
+}
+
+p {
+  padding-top: 2%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#tribute-info{
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-weight: 700;
 }
