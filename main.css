@@ -6,8 +6,16 @@
 
 #main {
   width: 99%;
-  height: 100%;
-  margin: 8px auto;
+  height: 100vh;
+  margin: 30px auto;
   background-color:rgb(207, 247, 234);
   border-radius: 8px;
+}
+
+#title{
+  text-align: center;
+}
+
+h1 {
+  font-size: 30px;
 }
