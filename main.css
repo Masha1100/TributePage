@@ -14,8 +14,11 @@
 
 #title{
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat Alternates', sans-serif;
 }
 
 h1 {
   font-size: 30px;
+  font-weight: bold;
 }
