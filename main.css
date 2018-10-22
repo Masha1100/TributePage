@@ -44,7 +44,18 @@ p {
   max-width: 600px;
 }
 
+#tribute-info{
+  width: 50%;
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+  padding: 1%;
+}
 
+li{
+  line-height: 20px;
+  font-size: 14px;
+  padding: 1% 0;
+}
 
 #tribute-link{
   font-family: 'Montserrat Alternates', sans-serif;
