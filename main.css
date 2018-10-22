@@ -42,6 +42,8 @@ p {
   width: 100%;
   height: auto;
   max-width: 600px;
+  display: block;
+  margin: 0 auto;
 }
 
 #tribute-info{
@@ -51,10 +53,33 @@ p {
   padding: 1%;
 }
 
+h2 {
+  text-align: center;
+  padding: 1%;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-weight: 700;
+}
+
 li{
   line-height: 20px;
   font-size: 14px;
   padding: 1% 0;
+  margin: 1% 0;
+}
+
+#link{
+  font-family: 'Montserrat Alternates', sans-serif;
+  text-align: center;
+}
+
+#link p{
+  margin: 2% 4%;
+}
+
+q {
+  padding: 4%;
+  line-height: 20px;
+  font-size: 14px;
 }
 
 #tribute-link{
