@@ -6,7 +6,7 @@
 
 #main {
   width: 99%;
-  height: 100vh;
+  height: 100%;
   margin: 30px auto;
   background-color:rgb(207, 247, 234);
   border-radius: 8px;
@@ -14,21 +14,37 @@
 
 #title{
   text-align: center;
-  
   font-family: 'Montserrat Alternates', sans-serif;
   padding-top: 3%;
-  padding-bottom: 2%;
+  
 }
 
 h1 {
   font-size: 30px;
   font-weight: bold;
+  padding-bottom: 2%;
 }
 
 p {
-  padding-top: 2%;
+  padding-bottom: 2%;
   font-family: 'Montserrat', sans-serif;
 }
+
+#img-div {
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  width: 98%;
+  margin: 0 auto;
+}
+
+#image {
+  padding: 1%;
+  width: 100%;
+  height: auto;
+  max-width: 600px;
+}
+
+
 
 #tribute-info{
   font-family: 'Montserrat Alternates', sans-serif;
